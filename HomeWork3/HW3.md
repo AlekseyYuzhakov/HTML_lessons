@@ -1,5 +1,6 @@
 Домашнее задание
-1. Открыть макет сайта https://www.figma.com/file/mnLY69cYE5cqWM5w6n5hXx/Seo- %26-Digital-Marketing-Landing-Page?node-id=23%3A2
+
+1. Открыть макет сайта <https://www.figma.com/file/mnLY69cYE5cqWM5w6n5hXx/Seo-%26-Digital-Marketing-Landing-Page?node-id=23%3A2>
 2. необходимо представить разбиение часть на блоки (Для тех учеников которые
 умеют работать с фигма разбить представленную на скриншоте часть на блоки, как в
 семинаре)

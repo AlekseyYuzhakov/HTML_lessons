@@ -1,0 +1,101 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+body {
+  scroll-behavior: smooth;
+  background: #fff;
+  color: #000000;
+}
+img {
+  max-width: 100%;
+  display: block;
+}
+.container {
+  max-width: 1146px;
+  margin: 0 auto;
+}
+
+button {
+  border: none;
+  cursor: pointer;
+}
+
+.header {
+  padding: 39px 0;
+  background: #fff;
+  margin-bottom: 84px;
+}
+.navigation {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+
+.navlink {
+  font-weight: 400;
+  font-size: 14px;
+  color: #000;
+}
+.active_link {
+  color: #f25822;
+}
+.header_logo {
+  padding: 0 77px;
+}
+.main {
+  margin-bottom: 80px;
+}
+.main_content {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.content {
+  max-width: 604px;
+}
+.content_title {
+  font-weight: 400;
+  font-size: 60px;
+  color: #000;
+  max-width: 522px;
+  margin-bottom: 10px;
+}
+.content_text {
+  font-weight: 400;
+  font-size: 20px;
+  color: #888;
+  margin-bottom: 50px;
+  max-width: 466px;
+}
+.content_btn_box {
+  display: flex;
+  gap: 20px;
+}
+.btn {
+  border-radius: 50px;
+  padding: 15px 30px;
+  font-weight: 600;
+  font-size: 20px;
+  color: #fff;
+  box-shadow: 4px 4px 8px 0 rgba(242, 88, 34, 0.2);
+  background: #f25822;
+}
+.btn-watch {
+  display: flex;
+  background: none;
+  gap: 10px;
+  align-items: center;
+  font-weight: 400;
+  font-size: 15px;
+  color: #aaa;
+}
+.footer {
+  margin-bottom: 99px;
+}
+.logos {
+  display: flex;
+  justify-content: space-between;
+}
